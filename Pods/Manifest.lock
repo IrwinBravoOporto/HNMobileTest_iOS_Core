@@ -1,0 +1,16 @@
+PODS:
+  - KAWebBrowser (0.3.0)
+
+DEPENDENCIES:
+  - KAWebBrowser
+
+SPEC REPOS:
+  trunk:
+    - KAWebBrowser
+
+SPEC CHECKSUMS:
+  KAWebBrowser: b20c6aa2c94ce8341abdacc02987741ccb443b3d
+
+PODFILE CHECKSUM: a7e20dabd738a867ad0e5ff0cf5fad50bad4024b
+
+COCOAPODS: 1.10.0
